@@ -1,0 +1,7 @@
+git init создание коммита
+git status проверка статуса коммита
+git commit фиксация изменений
+git branch создание ветки
+git checkout переключение между ветками
+git merge слияние веток
+git graph вывод всех коммттов
